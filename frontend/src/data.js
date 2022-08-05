@@ -14,7 +14,7 @@ const data = {
     },
     {
       name: "Addida Fit shirt",
-      slug: "Addida-Fit-shirt",
+      slug: "addida-fit-shirt",
       category: "Shirts",
       image: "/images/p2.jpg",
       price: 250,
@@ -26,7 +26,7 @@ const data = {
     },
     {
       name: "Nike Slim Pant",
-      slug: "nike-slim-Pant",
+      slug: "nike-slim-pant",
       category: "Pants",
       image: "/images/p3.jpg",
       price: 25,
@@ -38,7 +38,7 @@ const data = {
     },
     {
       name: "Addida Fit Pant",
-      slug: "Addida-Fit-Pant",
+      slug: "addida-fit-pant",
       category: "Pant",
       image: "/images/p4.jpg",
       price: 65,
