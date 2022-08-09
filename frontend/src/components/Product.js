@@ -44,6 +44,7 @@ function Product(props) {
         <Card.Text>${product.price}</Card.Text>
         {product.countInStock === 0 ? (
           <Button variant="light" disabled>
+            {/* not working*/}
             Out of stock
           </Button>
         ) : (
