@@ -100,3 +100,6 @@
     1. create form input
     2. handle save shipping address
     3. add checkout wizard bar
+25. Implement Select Payment Method Screen
+    1. create input forms
+    2. handle submit
