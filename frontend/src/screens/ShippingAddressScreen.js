@@ -39,7 +39,7 @@ export default function ShippingAddressScreen() {
       },
     });
     localStorage.setItem(
-      'SAVE_SHIPPING_ADDRESS',
+      'shippingAddress',
       JSON.stringify({
         fullName,
         address,
