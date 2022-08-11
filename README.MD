@@ -113,3 +113,7 @@
 28. Create Order Screen
     1. create backend api for order/:id
     2. show order information in two columns
+29. Display Order History
+    1. create order history screen
+    2. create order history api
+    3. use api in the backend
